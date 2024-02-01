@@ -1,6 +1,6 @@
 # ViLexNorm: A Lexical Normalization Corpus for Vietnamese Social Media Text
 
-The ViLexNorm corpus is a collection of comment pairs in Vietnamese, designed for the task of lexical normalization. For more details, please refer to the accompanying [paper](https://arxiv.org/abs/2401.16403), which has been accepted at the [EACL 2024](https://2024.eacl.org/) Main Conference.
+The **ViLexNorm** corpus is a collection of comment pairs in Vietnamese, designed for the task of lexical normalization. For more details, please refer to the accompanying [paper](https://arxiv.org/abs/2401.16403), which has been accepted at the [EACL 2024](https://2024.eacl.org/) Main Conference.
 
 ## Description
 
@@ -15,7 +15,7 @@ The data is provided in CSV format, with each row representing a comment pair. T
 
 ## Citation
 
-If you use the ViLexNorm corpus, please cite the following paper:
+If you use the **ViLexNorm** corpus, please cite the following paper:
 
 ```
 @misc{nguyen2024vilexnorm,
@@ -30,7 +30,7 @@ If you use the ViLexNorm corpus, please cite the following paper:
 
 ## License
 
-The ViLexNorm corpus is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The **ViLexNorm** corpus is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ---
 
